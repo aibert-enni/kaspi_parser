@@ -1,95 +1,728 @@
 {
-    "offers": [
-        [
-            {
-                "name": "МИР НОУТБУКОВ",
-                "price": 419980.0
-            },
-            {
-                "name": "Sulpak",
-                "price": 419990.0
-            },
-            {
-                "name": "_Тaмерлан_",
-                "price": 419990.0
-            },
-            {
-                "name": "Haier",
-                "price": 419990.0
-            },
-            {
-                "name": "iMart",
-                "price": 429990.0
-            },
-            {
-                "name": "TOP-ELECTRONICS",
-                "price": 429990.0
-            },
-            {
-                "name": "Bari Bar",
-                "price": 499990.0
-            },
-            {
-                "name": "Аяла",
-                "price": 500000.0
-            },
-            {
-                "name": "PC PARADISE",
-                "price": 518000.0
-            },
-            {
-                "name": "LUCCI",
-                "price": 560000.0
-            }
+    "https://kaspi.kz/shop/p/thunderobot-911s-core-d-15-6-16-gb-ssd-512-gb-bez-os-jt009k00f-117046774/?c=750000000": {
+        "offers": [
+            [
+                {
+                    "name": "МИР НОУТБУКОВ",
+                    "price": 419980.0
+                },
+                {
+                    "name": "Sulpak",
+                    "price": 419990.0
+                },
+                {
+                    "name": "_Тaмерлан_",
+                    "price": 419990.0
+                },
+                {
+                    "name": "Haier",
+                    "price": 419990.0
+                },
+                {
+                    "name": "iMart",
+                    "price": 429990.0
+                },
+                {
+                    "name": "TOP-ELECTRONICS",
+                    "price": 429990.0
+                },
+                {
+                    "name": "Bari Bar",
+                    "price": 499990.0
+                },
+                {
+                    "name": "Аяла",
+                    "price": 500000.0
+                },
+                {
+                    "name": "PC PARADISE",
+                    "price": 518000.0
+                },
+                {
+                    "name": "LUCCI",
+                    "price": 560000.0
+                }
+            ]
+        ],
+        "offers_history": [
+            [
+                {
+                    "date": "2025-10-04T15:19:27.753949+00:00",
+                    "offers": [
+                        {
+                            "name": "МИР НОУТБУКОВ",
+                            "price": 419980.0
+                        },
+                        {
+                            "name": "Sulpak",
+                            "price": 419990.0
+                        },
+                        {
+                            "name": "_Тaмерлан_",
+                            "price": 419990.0
+                        },
+                        {
+                            "name": "Haier",
+                            "price": 419990.0
+                        },
+                        {
+                            "name": "iMart",
+                            "price": 429990.0
+                        },
+                        {
+                            "name": "TOP-ELECTRONICS",
+                            "price": 429990.0
+                        },
+                        {
+                            "name": "Bari Bar",
+                            "price": 499990.0
+                        },
+                        {
+                            "name": "Аяла",
+                            "price": 500000.0
+                        },
+                        {
+                            "name": "PC PARADISE",
+                            "price": 518000.0
+                        },
+                        {
+                            "name": "LUCCI",
+                            "price": 560000.0
+                        }
+                    ]
+                }
+            ]
         ]
-    ],
-    "offers_history": [
-        [
-            {
-                "date": "2025-10-04T14:47:37.961718+00:00",
-                "offers": [
-                    {
-                        "name": "МИР НОУТБУКОВ",
-                        "price": 419980.0
-                    },
-                    {
-                        "name": "Sulpak",
-                        "price": 419990.0
-                    },
-                    {
-                        "name": "_Тaмерлан_",
-                        "price": 419990.0
-                    },
-                    {
-                        "name": "Haier",
-                        "price": 419990.0
-                    },
-                    {
-                        "name": "iMart",
-                        "price": 429990.0
-                    },
-                    {
-                        "name": "TOP-ELECTRONICS",
-                        "price": 429990.0
-                    },
-                    {
-                        "name": "Bari Bar",
-                        "price": 499990.0
-                    },
-                    {
-                        "name": "Аяла",
-                        "price": 500000.0
-                    },
-                    {
-                        "name": "PC PARADISE",
-                        "price": 518000.0
-                    },
-                    {
-                        "name": "LUCCI",
-                        "price": 560000.0
-                    }
-                ]
-            }
+    },
+    "https://kaspi.kz/shop/p/noski-5-par-belyi-universal-nyi-104285966/?c=750000000&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE": {
+        "offers": [
+            [
+                {
+                    "name": "Qamqor",
+                    "price": 379.0
+                },
+                {
+                    "name": "ИП АЙНУРА",
+                    "price": 380.0
+                },
+                {
+                    "name": "Best Quality",
+                    "price": 380.0
+                },
+                {
+                    "name": "ALLin.Store",
+                    "price": 385.0
+                },
+                {
+                    "name": "ИП СЕРІК",
+                    "price": 389.0
+                },
+                {
+                    "name": "ИП РАХМАНОВ",
+                    "price": 395.0
+                },
+                {
+                    "name": "DomTrend",
+                    "price": 400.0
+                },
+                {
+                    "name": "UPGRADE — Официальный магазин",
+                    "price": 450.0
+                },
+                {
+                    "name": "Samalik",
+                    "price": 450.0
+                },
+                {
+                    "name": "NekoKumo Shop - официальный магазин",
+                    "price": 480.0
+                },
+                {
+                    "name": "AMELIE shop",
+                    "price": 499.0
+                },
+                {
+                    "name": "Rosh Room",
+                    "price": 520.0
+                },
+                {
+                    "name": "Tomy_Brand",
+                    "price": 530.0
+                },
+                {
+                    "name": "IQS",
+                    "price": 534.0
+                },
+                {
+                    "name": "EliSen-официальный магазин",
+                    "price": 550.0
+                },
+                {
+                    "name": "GlebiKo",
+                    "price": 550.0
+                },
+                {
+                    "name": "Celestifi",
+                    "price": 550.0
+                },
+                {
+                    "name": "ИП АРСЛАН",
+                    "price": 580.0
+                },
+                {
+                    "name": "LIRIMIKSA -официальный магазин",
+                    "price": 600.0
+                },
+                {
+                    "name": "Altyn & Family",
+                    "price": 600.0
+                },
+                {
+                    "name": "Nazerke Shop",
+                    "price": 600.0
+                },
+                {
+                    "name": "ИП АРАЙ",
+                    "price": 650.0
+                },
+                {
+                    "name": "Emir Group",
+                    "price": 700.0
+                },
+                {
+                    "name": "ИП МЕШИМКЫЗЫ",
+                    "price": 700.0
+                },
+                {
+                    "name": "Dreames World-официальный магазин",
+                    "price": 700.0
+                },
+                {
+                    "name": "ИП ИЩАНОВА НАЗЫМ ГАЗИЗОВНА",
+                    "price": 748.0
+                },
+                {
+                    "name": "ИП ИНЖИР",
+                    "price": 750.0
+                },
+                {
+                    "name": "ИП NOMAD",
+                    "price": 750.0
+                },
+                {
+                    "name": "ИП КАРИМОВА",
+                    "price": 800.0
+                },
+                {
+                    "name": "AMI SHOP",
+                    "price": 850.0
+                },
+                {
+                    "name": "KERUEN",
+                    "price": 869.0
+                },
+                {
+                    "name": "Amirchik shop",
+                    "price": 875.0
+                },
+                {
+                    "name": "ИП BBF",
+                    "price": 889.0
+                },
+                {
+                    "name": "Baby premium",
+                    "price": 900.0
+                },
+                {
+                    "name": "ИП WILLOW",
+                    "price": 996.0
+                },
+                {
+                    "name": "ИП БЕКЕТ Н.Н.",
+                    "price": 998.0
+                },
+                {
+                    "name": "ИП ДАРИБАЕВА",
+                    "price": 999.0
+                },
+                {
+                    "name": "Kigurumi_vkz",
+                    "price": 1000.0
+                },
+                {
+                    "name": "ASIK SHOP",
+                    "price": 1000.0
+                },
+                {
+                    "name": "Sabi Shop",
+                    "price": 1025.0
+                },
+                {
+                    "name": "OIATPA",
+                    "price": 1158.0
+                },
+                {
+                    "name": "ИП САПАРОВА",
+                    "price": 1159.0
+                },
+                {
+                    "name": "ИП ТҰРҒАМБАЙ",
+                    "price": 1200.0
+                },
+                {
+                    "name": "ИП НӘЗІК",
+                    "price": 1200.0
+                },
+                {
+                    "name": "ИП САҒЫНБАЙ",
+                    "price": 1200.0
+                },
+                {
+                    "name": "ИП BSTORIG",
+                    "price": 1250.0
+                },
+                {
+                    "name": "Makosh",
+                    "price": 1299.0
+                },
+                {
+                    "name": "ИП COMFORT",
+                    "price": 1350.0
+                },
+                {
+                    "name": "ИП ОМАРОВА",
+                    "price": 1400.0
+                },
+                {
+                    "name": "ИП ТӨЛБАЕВ",
+                    "price": 1499.0
+                },
+                {
+                    "name": "ИП ТЛЕГЕНОВ",
+                    "price": 1499.0
+                },
+                {
+                    "name": "ИП SPEED WIN",
+                    "price": 1499.0
+                },
+                {
+                    "name": "DR DILOR",
+                    "price": 1499.0
+                },
+                {
+                    "name": "KAMIKADZE",
+                    "price": 1499.0
+                },
+                {
+                    "name": "KOMPANON",
+                    "price": 1500.0
+                },
+                {
+                    "name": "ИП АЛДИБЕКОВА Г",
+                    "price": 1500.0
+                },
+                {
+                    "name": "MakoPako детский мир",
+                    "price": 1500.0
+                },
+                {
+                    "name": "Zari_shop",
+                    "price": 1500.0
+                },
+                {
+                    "name": "ИП ГУЛЬЖАН",
+                    "price": 1500.0
+                },
+                {
+                    "name": "ИП МУРАТОВА БАКЫТ МАМАТБАЕВНА",
+                    "price": 1500.0
+                },
+                {
+                    "name": "мелдебекова",
+                    "price": 1600.0
+                },
+                {
+                    "name": "ИП КАМАР",
+                    "price": 1900.0
+                },
+                {
+                    "name": "LEDI TREND",
+                    "price": 1900.0
+                },
+                {
+                    "name": "ИП БЕРЕКЕ",
+                    "price": 2000.0
+                },
+                {
+                    "name": "ИП ЗЕРЕ",
+                    "price": 2000.0
+                },
+                {
+                    "name": "ИП АҚДӘМЕН",
+                    "price": 2127.0
+                },
+                {
+                    "name": "ИП АБЖАНОВА",
+                    "price": 2500.0
+                },
+                {
+                    "name": "AS_Market",
+                    "price": 2730.0
+                },
+                {
+                    "name": "ТОО ALARUS GROUP",
+                    "price": 2900.0
+                },
+                {
+                    "name": "ИП QAZYNA",
+                    "price": 2900.0
+                },
+                {
+                    "name": "ИП ANGELINA",
+                    "price": 2998.0
+                },
+                {
+                    "name": "IBK",
+                    "price": 3500.0
+                },
+                {
+                    "name": "ИП КАРОЛИНА",
+                    "price": 4800.0
+                },
+                {
+                    "name": "Sadler kz",
+                    "price": 4894.0
+                },
+                {
+                    "name": "-Friends-",
+                    "price": 4990.0
+                },
+                {
+                    "name": "EASTORE",
+                    "price": 10000.0
+                },
+                {
+                    "name": "ИП ИТОЛИЕВА",
+                    "price": 25990.0
+                }
+            ]
+        ],
+        "offers_history": [
+            [
+                {
+                    "date": "2025-10-04T15:19:29.286837+00:00",
+                    "offers": [
+                        {
+                            "name": "Qamqor",
+                            "price": 379.0
+                        },
+                        {
+                            "name": "ИП АЙНУРА",
+                            "price": 380.0
+                        },
+                        {
+                            "name": "Best Quality",
+                            "price": 380.0
+                        },
+                        {
+                            "name": "ALLin.Store",
+                            "price": 385.0
+                        },
+                        {
+                            "name": "ИП СЕРІК",
+                            "price": 389.0
+                        },
+                        {
+                            "name": "ИП РАХМАНОВ",
+                            "price": 395.0
+                        },
+                        {
+                            "name": "DomTrend",
+                            "price": 400.0
+                        },
+                        {
+                            "name": "UPGRADE — Официальный магазин",
+                            "price": 450.0
+                        },
+                        {
+                            "name": "Samalik",
+                            "price": 450.0
+                        },
+                        {
+                            "name": "NekoKumo Shop - официальный магазин",
+                            "price": 480.0
+                        },
+                        {
+                            "name": "AMELIE shop",
+                            "price": 499.0
+                        },
+                        {
+                            "name": "Rosh Room",
+                            "price": 520.0
+                        },
+                        {
+                            "name": "Tomy_Brand",
+                            "price": 530.0
+                        },
+                        {
+                            "name": "IQS",
+                            "price": 534.0
+                        },
+                        {
+                            "name": "EliSen-официальный магазин",
+                            "price": 550.0
+                        },
+                        {
+                            "name": "GlebiKo",
+                            "price": 550.0
+                        },
+                        {
+                            "name": "Celestifi",
+                            "price": 550.0
+                        },
+                        {
+                            "name": "ИП АРСЛАН",
+                            "price": 580.0
+                        },
+                        {
+                            "name": "LIRIMIKSA -официальный магазин",
+                            "price": 600.0
+                        },
+                        {
+                            "name": "Altyn & Family",
+                            "price": 600.0
+                        },
+                        {
+                            "name": "Nazerke Shop",
+                            "price": 600.0
+                        },
+                        {
+                            "name": "ИП АРАЙ",
+                            "price": 650.0
+                        },
+                        {
+                            "name": "Emir Group",
+                            "price": 700.0
+                        },
+                        {
+                            "name": "ИП МЕШИМКЫЗЫ",
+                            "price": 700.0
+                        },
+                        {
+                            "name": "Dreames World-официальный магазин",
+                            "price": 700.0
+                        },
+                        {
+                            "name": "ИП ИЩАНОВА НАЗЫМ ГАЗИЗОВНА",
+                            "price": 748.0
+                        },
+                        {
+                            "name": "ИП ИНЖИР",
+                            "price": 750.0
+                        },
+                        {
+                            "name": "ИП NOMAD",
+                            "price": 750.0
+                        },
+                        {
+                            "name": "ИП КАРИМОВА",
+                            "price": 800.0
+                        },
+                        {
+                            "name": "AMI SHOP",
+                            "price": 850.0
+                        },
+                        {
+                            "name": "KERUEN",
+                            "price": 869.0
+                        },
+                        {
+                            "name": "Amirchik shop",
+                            "price": 875.0
+                        },
+                        {
+                            "name": "ИП BBF",
+                            "price": 889.0
+                        },
+                        {
+                            "name": "Baby premium",
+                            "price": 900.0
+                        },
+                        {
+                            "name": "ИП WILLOW",
+                            "price": 996.0
+                        },
+                        {
+                            "name": "ИП БЕКЕТ Н.Н.",
+                            "price": 998.0
+                        },
+                        {
+                            "name": "ИП ДАРИБАЕВА",
+                            "price": 999.0
+                        },
+                        {
+                            "name": "Kigurumi_vkz",
+                            "price": 1000.0
+                        },
+                        {
+                            "name": "ASIK SHOP",
+                            "price": 1000.0
+                        },
+                        {
+                            "name": "Sabi Shop",
+                            "price": 1025.0
+                        },
+                        {
+                            "name": "OIATPA",
+                            "price": 1158.0
+                        },
+                        {
+                            "name": "ИП САПАРОВА",
+                            "price": 1159.0
+                        },
+                        {
+                            "name": "ИП ТҰРҒАМБАЙ",
+                            "price": 1200.0
+                        },
+                        {
+                            "name": "ИП НӘЗІК",
+                            "price": 1200.0
+                        },
+                        {
+                            "name": "ИП САҒЫНБАЙ",
+                            "price": 1200.0
+                        },
+                        {
+                            "name": "ИП BSTORIG",
+                            "price": 1250.0
+                        },
+                        {
+                            "name": "Makosh",
+                            "price": 1299.0
+                        },
+                        {
+                            "name": "ИП COMFORT",
+                            "price": 1350.0
+                        },
+                        {
+                            "name": "ИП ОМАРОВА",
+                            "price": 1400.0
+                        },
+                        {
+                            "name": "ИП ТӨЛБАЕВ",
+                            "price": 1499.0
+                        },
+                        {
+                            "name": "ИП ТЛЕГЕНОВ",
+                            "price": 1499.0
+                        },
+                        {
+                            "name": "ИП SPEED WIN",
+                            "price": 1499.0
+                        },
+                        {
+                            "name": "DR DILOR",
+                            "price": 1499.0
+                        },
+                        {
+                            "name": "KAMIKADZE",
+                            "price": 1499.0
+                        },
+                        {
+                            "name": "KOMPANON",
+                            "price": 1500.0
+                        },
+                        {
+                            "name": "ИП АЛДИБЕКОВА Г",
+                            "price": 1500.0
+                        },
+                        {
+                            "name": "MakoPako детский мир",
+                            "price": 1500.0
+                        },
+                        {
+                            "name": "Zari_shop",
+                            "price": 1500.0
+                        },
+                        {
+                            "name": "ИП ГУЛЬЖАН",
+                            "price": 1500.0
+                        },
+                        {
+                            "name": "ИП МУРАТОВА БАКЫТ МАМАТБАЕВНА",
+                            "price": 1500.0
+                        },
+                        {
+                            "name": "мелдебекова",
+                            "price": 1600.0
+                        },
+                        {
+                            "name": "ИП КАМАР",
+                            "price": 1900.0
+                        },
+                        {
+                            "name": "LEDI TREND",
+                            "price": 1900.0
+                        },
+                        {
+                            "name": "ИП БЕРЕКЕ",
+                            "price": 2000.0
+                        },
+                        {
+                            "name": "ИП ЗЕРЕ",
+                            "price": 2000.0
+                        },
+                        {
+                            "name": "ИП АҚДӘМЕН",
+                            "price": 2127.0
+                        },
+                        {
+                            "name": "ИП АБЖАНОВА",
+                            "price": 2500.0
+                        },
+                        {
+                            "name": "AS_Market",
+                            "price": 2730.0
+                        },
+                        {
+                            "name": "ТОО ALARUS GROUP",
+                            "price": 2900.0
+                        },
+                        {
+                            "name": "ИП QAZYNA",
+                            "price": 2900.0
+                        },
+                        {
+                            "name": "ИП ANGELINA",
+                            "price": 2998.0
+                        },
+                        {
+                            "name": "IBK",
+                            "price": 3500.0
+                        },
+                        {
+                            "name": "ИП КАРОЛИНА",
+                            "price": 4800.0
+                        },
+                        {
+                            "name": "Sadler kz",
+                            "price": 4894.0
+                        },
+                        {
+                            "name": "-Friends-",
+                            "price": 4990.0
+                        },
+                        {
+                            "name": "EASTORE",
+                            "price": 10000.0
+                        },
+                        {
+                            "name": "ИП ИТОЛИЕВА",
+                            "price": 25990.0
+                        }
+                    ]
+                }
+            ]
         ]
-    ]
+    }
 }

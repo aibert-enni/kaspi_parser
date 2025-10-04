@@ -1,6 +1,6 @@
 {
-    "products_info": [
-        {
+    "products_info": {
+        "https://kaspi.kz/shop/p/thunderobot-911s-core-d-15-6-16-gb-ssd-512-gb-bez-os-jt009k00f-117046774/?c=750000000": {
             "product_code": "117046774",
             "name": "Ноутбук ThundeRobot 911S Core D 15.6&#34; / 16 Гб / SSD 512 Гб / Без ОС / JT009K00F",
             "min_price": 419980.0,
@@ -9,7 +9,7 @@
             "comments_count": 306,
             "price_history": [
                 {
-                    "date": "2025-10-04T14:47:37.961707+00:00",
+                    "date": "2025-10-04T15:19:27.753949+00:00",
                     "max_price": 560000.0,
                     "min_price": 419980.0
                 }
@@ -198,6 +198,67 @@
                 ]
             },
             "sellers_count": 10
+        },
+        "https://kaspi.kz/shop/p/noski-5-par-belyi-universal-nyi-104285966/?c=750000000&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE": {
+            "product_code": "104285966",
+            "name": "Носки IQ 5 пар белый универсальный",
+            "min_price": 379.0,
+            "max_price": 25990.0,
+            "rating": 4.5,
+            "comments_count": 1477,
+            "price_history": [
+                {
+                    "date": "2025-10-04T15:19:29.286837+00:00",
+                    "max_price": 25990.0,
+                    "min_price": 379.0
+                }
+            ],
+            "image_links": [
+                "https://resources.cdn-kaspi.kz/img/m/p/h9c/h8b/84370839994398.jpg?format=gallery-large",
+                "https://resources.cdn-kaspi.kz/img/m/p/h81/hd7/64454317178910.jpg?format=gallery-large",
+                "https://resources.cdn-kaspi.kz/img/m/p/ha5/h2f/64454318981150.jpg?format=gallery-large",
+                "https://resources.cdn-kaspi.kz/img/m/p/h07/h7c/64454321405982.jpg?format=gallery-large"
+            ],
+            "details": {
+                "Узор": [
+                    "однотонный"
+                ],
+                "Декор": [
+                    "отсутствует"
+                ],
+                "Сезон": [
+                    "круглогодичный"
+                ],
+                "Модель": [
+                    "носки"
+                ],
+                "Состав": [
+                    "хлопок"
+                ],
+                "Комплект": [
+                    "true"
+                ],
+                "Вид спорта": [
+                    "повседневные",
+                    "бег"
+                ],
+                "Примечание": [
+                    "товар обмену и возврату не подлежит"
+                ],
+                "Количество пар": [
+                    "5 пар"
+                ],
+                "Страна производства": [
+                    "Турция"
+                ],
+                "Размер производителя": [
+                    "универсальный"
+                ],
+                "Дополнительная информация": [
+                    "Короткие, белые, набор, женские носки. Комфортная резинка равномерно распределяет давление, не препятствует кровообращению."
+                ]
+            },
+            "sellers_count": 77
         }
-    ]
+    }
 }
