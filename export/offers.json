@@ -1,0 +1,95 @@
+{
+    "offers": [
+        [
+            {
+                "name": "МИР НОУТБУКОВ",
+                "price": 419980.0
+            },
+            {
+                "name": "Sulpak",
+                "price": 419990.0
+            },
+            {
+                "name": "_Тaмерлан_",
+                "price": 419990.0
+            },
+            {
+                "name": "Haier",
+                "price": 419990.0
+            },
+            {
+                "name": "iMart",
+                "price": 429990.0
+            },
+            {
+                "name": "TOP-ELECTRONICS",
+                "price": 429990.0
+            },
+            {
+                "name": "Bari Bar",
+                "price": 499990.0
+            },
+            {
+                "name": "Аяла",
+                "price": 500000.0
+            },
+            {
+                "name": "PC PARADISE",
+                "price": 518000.0
+            },
+            {
+                "name": "LUCCI",
+                "price": 560000.0
+            }
+        ]
+    ],
+    "offers_history": [
+        [
+            {
+                "date": "2025-10-04T14:47:37.961718+00:00",
+                "offers": [
+                    {
+                        "name": "МИР НОУТБУКОВ",
+                        "price": 419980.0
+                    },
+                    {
+                        "name": "Sulpak",
+                        "price": 419990.0
+                    },
+                    {
+                        "name": "_Тaмерлан_",
+                        "price": 419990.0
+                    },
+                    {
+                        "name": "Haier",
+                        "price": 419990.0
+                    },
+                    {
+                        "name": "iMart",
+                        "price": 429990.0
+                    },
+                    {
+                        "name": "TOP-ELECTRONICS",
+                        "price": 429990.0
+                    },
+                    {
+                        "name": "Bari Bar",
+                        "price": 499990.0
+                    },
+                    {
+                        "name": "Аяла",
+                        "price": 500000.0
+                    },
+                    {
+                        "name": "PC PARADISE",
+                        "price": 518000.0
+                    },
+                    {
+                        "name": "LUCCI",
+                        "price": 560000.0
+                    }
+                ]
+            }
+        ]
+    ]
+}
