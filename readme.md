@@ -19,8 +19,8 @@
 - JSON логирование
 
 ## Скриншоты
-<img width="1920" height="1080" alt="Screenshot 2025-10-04 194039" src="https://github.com/user-attachments/assets/fd9b0a1f-4831-4aa4-89d7-c6dbb4af565e" />
-<img width="1920" height="1080" alt="Screenshot 2025-10-04 193933" src="https://github.com/user-attachments/assets/87bb3cce-1e6d-457a-a0e4-4f0db5ca5843" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 202832" src="https://github.com/user-attachments/assets/896ce012-6c12-42b2-9d2a-f6f9a18ff4bf" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 202841" src="https://github.com/user-attachments/assets/d6d8fe08-831a-4dd3-b804-a6e3e123cf15" />
 <img width="1920" height="1080" alt="Screenshot 2025-10-04 194005" src="https://github.com/user-attachments/assets/b5f41a45-9d1d-4e31-8d3d-d1fe25d41016" />
 
 
