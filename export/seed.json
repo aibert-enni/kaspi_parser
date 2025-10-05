@@ -6,10 +6,10 @@
             "min_price": 419980.0,
             "max_price": 560000.0,
             "rating": 4.9,
-            "comments_count": 306,
+            "comments_count": 307,
             "price_history": [
                 {
-                    "date": "2025-10-04T15:19:27.753949+00:00",
+                    "date": "2025-10-05T12:56:20.779201+00:00",
                     "max_price": 560000.0,
                     "min_price": 419980.0
                 }
@@ -197,20 +197,25 @@
                     "5.0 ч"
                 ]
             },
-            "sellers_count": 10
+            "sellers_count": 12
         },
         "https://kaspi.kz/shop/p/noski-5-par-belyi-universal-nyi-104285966/?c=750000000&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE&gbraid=0AAAAAC7-v7izmnoR5ieEVY-SAABGM0G6p&gclid=CjwKCAjwi4PHBhA-EiwAnjTHucWepXnQtkyxeS76RnW4u_XkApcGssi6nP-ayj2kj5TMDV_vyHeCyRoCp0kQAvD_BwE": {
             "product_code": "104285966",
             "name": "Носки IQ 5 пар белый универсальный",
-            "min_price": 379.0,
+            "min_price": 384.0,
             "max_price": 25990.0,
             "rating": 4.5,
-            "comments_count": 1477,
+            "comments_count": 1480,
             "price_history": [
                 {
-                    "date": "2025-10-04T15:19:29.286837+00:00",
+                    "date": "2025-10-05T12:44:30.738128+00:00",
                     "max_price": 25990.0,
-                    "min_price": 379.0
+                    "min_price": 385.0
+                },
+                {
+                    "date": "2025-10-05T12:56:32.436886+00:00",
+                    "max_price": 25990.0,
+                    "min_price": 384.0
                 }
             ],
             "image_links": [
